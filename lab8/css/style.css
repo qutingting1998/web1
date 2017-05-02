@@ -1,0 +1,29 @@
+html{
+	font-size: 12px;
+	font-family: Arial;
+}
+p{
+	line-height: 2em;
+}
+a:link{
+	color: #727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.menu{
+	font-size: 14px;
+	color: #b9f605;
+	font-weight: bold;
+}
+.menu a:link{
+	color: white;
+}
+.memu a:hover{
+	color: #b9f605
+	text-decoration:none;
+}
+.special{
+	color: #fdb306;
+}
