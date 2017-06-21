@@ -1,0 +1,297 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-size: 15px;
+    font-family: 行书；
+    color: #522a06;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+a:link{
+	color:#990000;
+}
+a:hover{
+	text-decoration:underline;
+}
+#header{
+	width: 100%;
+	background-position: top center;
+	background-repeat: no-repeat;
+	font-size: 0;
+}
+#header .bg{
+	width: 100%;
+}
+#header .log{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	top:100px;
+	left:200px;
+}
+#header #nav{
+	font-size: 16px;
+	background-color:#D3D3D3;
+	height: 30px;
+	background-position: bottom;
+}
+#header .nav_body{
+	width: 1000px;
+	margin: 0 auto;
+}
+#header .nav_content ul li{
+	display:inline;
+	float:left;
+}
+#header .nav_content a{
+	height: 40px;
+}
+#header .nav_content ul .l1{
+	border-right:2px solid #990000;
+	height: 18px;
+	position: relative;
+	top:5px;	
+}
+#header .nav_content ul .l2{
+	position: relative;
+	top:5px;	
+}
+#header .nav_search ul li{
+	display:inline;
+	float:left;
+	height: 30px;
+	line-height: 30px;
+	position: absolute;
+	right: 200px;
+}
+#header #la{
+	width: 190px;
+	height: 20px;
+	background-color: #f8f5ee;
+}
+#header #lb{
+	width: 44px;
+	height: 27px;
+	background-color: #D3D3D3;
+	color: #fff;
+	color: #990000;
+}
+#content{
+	margin-top:20px;
+}
+#content_left{
+	width: 350px;
+	height: 800px;
+	float: left;
+	margin-left: 120px;
+	margin-right: 10px;
+}
+#content_left .shir{
+	width: 300px;
+	height: 360px;
+	background-image:url(../images/14.png); 
+}
+.shir img{
+	position: relative;
+	top: 10px;
+	left:60px;
+}
+.shir ul{
+	margin-top:10px;
+	margin-left:25px;
+	line-height: 30px;
+	list-style-type: square;
+}
+.shir a:link{
+	font-size:20px;
+	color: black;
+}
+#content_left .shig{
+	margin-top: 20px;
+	width: 300px;
+	height: 350px;
+	background-image: url(../images/7.png);
+
+}
+.shig img{
+	position: relative;
+	top: 10px;
+	left:70px;
+}
+.shig ul{
+	margin-top:10px;
+	margin-left:35px;
+	line-height: 30px;
+	list-style-type: square;
+}
+.shig a:link{
+	font-size:20px;
+	color: black;
+}
+#content_right{
+	width: 700px;
+	height:650px;
+	float: left;
+	margin-top: 20px;
+}
+#content_right .biao{
+	width: 700px;
+	height: 60px;
+	background-image: url(../images/9.jpg);
+	margin-left: 40px;
+}
+.biao img{
+	float: left;
+
+}
+#content_right .ti{
+	font-size: 25px;
+	font-weight: 900;
+	color: black;
+	float: left;
+	position: relative;
+	top:10px;
+}
+.shige ul li{
+    width:700px;
+    line-height: 40px;
+	font-size: 20px;
+	margin-top:5px;
+}
+.no1 a:link{
+	color:white;
+}
+.no1{
+	background: black;
+	color:white;
+}
+.no2 a:link{
+	color:black;
+}
+.no2{
+	border: 1px solid black;
+
+}
+#content_right .time{
+	float:right;
+}
+#content_right .yema{
+	width: 700px;
+	height: 100px;
+	margin-top: 20px;
+}
+#content_right .shuzi{
+	margin-left: 350px;
+}
+#content_right .ye1{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye2{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye3{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye4{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye5{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye6{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye7{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#content_right .ye8{
+	width: 100px;
+	height: 70px;
+	border: 1px solid black;
+	color: black;
+	padding: 4px 8px;
+	font-size: 15px;
+	margin: 3px;
+}
+#foot{
+	background-color: black;
+	color:white;
+	float: left;
+	width: 100%;
+}
+.ft{
+	padding-left: 280px;
+	margin-bottom: 5px;
+
+}
+#foot ul li{
+	width: 70px;
+	display:inline;
+	margin-left: 45px;
+	text-align: center;
+	height: 20px;
+}
+#foot ul .fo{
+	border-right:1px solid #990000;
+	height: 20px;
+	position: relative;
+	top:1px;
+}
+#foot ul .fo1{
+	height: 30px;
+	position: relative;
+	top:1px;
+}
+#foot hr{
+	width: 700px;
+}
+.footer{
+	text-align: center;
+	color:white;
+}
